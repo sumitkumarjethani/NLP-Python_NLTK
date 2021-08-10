@@ -1,3 +1,3 @@
-"# NPL-Python_NLTK" 
+"# NLP-Python_NLTK" 
 
 Curso de Fundamentos de Procesamiento de Lenguaje Natural con Python y NLTK 
